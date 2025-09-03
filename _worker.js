@@ -1,23 +1,23 @@
 // 域名映射配置
 const domain_mappings = {
-  'github.com': 'gh.',
-  'avatars.githubusercontent.com': 'avatars-githubusercontent-com.',
-  'github.githubassets.com': 'github-githubassets-com.',
-  'collector.github.com': 'collector-github-com.',
-  'api.github.com': 'api-github-com.',
-  'raw.githubusercontent.com': 'raw-githubusercontent-com.',
-  'gist.githubusercontent.com': 'gist-githubusercontent-com.',
-  'github.io': 'github-io.',
-  'assets-cdn.github.com': 'assets-cdn-github-com.',
-  'cdn.jsdelivr.net': 'cdn.jsdelivr-net.',
-  'securitylab.github.com': 'securitylab-github-com.',
-  'www.githubstatus.com': 'www-githubstatus-com.',
-  'npmjs.com': 'npmjs-com.',
-  'git-lfs.github.com': 'git-lfs-github-com.',
-  'githubusercontent.com': 'githubusercontent-com.',
-  'github.global.ssl.fastly.net': 'github-global-ssl-fastly-net.',
-  'api.npms.io': 'api-npms-io.',
-  'github.community': 'github-community.'
+  'github.com': 'gh.at13xe.top',
+  'avatars.githubusercontent.com': 'avatars-githubusercontent-com.at13xe.top',
+  'github.githubassets.com': 'github-githubassets-com.at13xe.top',
+  'collector.github.com': 'collector-github-com.at13xe.top',
+  'api.github.com': 'api-github-com.at13xe.top',
+  'raw.githubusercontent.com': 'raw-githubusercontent-com.at13xe.top',
+  'gist.githubusercontent.com': 'gist-githubusercontent-com.at13xe.top',
+  'github.io': 'github-io.at13xe.top',
+  'assets-cdn.github.com': 'assets-cdn-github-com.at13xe.top',
+  'cdn.jsdelivr.net': 'cdn.jsdelivr-net.at13xe.top',
+  'securitylab.github.com': 'securitylab-github-com.at13xe.top',
+  'www.githubstatus.com': 'www-githubstatus-com.at13xe.top',
+  'npmjs.com': 'npmjs-com.at13xe.top',
+  'git-lfs.github.com': 'git-lfs-github-com.at13xe.top',
+  'githubusercontent.com': 'githubusercontent-com.at13xe.top',
+  'github.global.ssl.fastly.net': 'github-global-ssl-fastly-net.at13xe.top',
+  'api.npms.io': 'api-npms-io.at13xe.top',
+  'github.community': 'github-community.at13xe.top'
 };
 
 // 需要重定向的路径
